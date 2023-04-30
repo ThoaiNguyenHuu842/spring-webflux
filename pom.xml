@@ -15,7 +15,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>epam-ccca-vmqr</name>
+	<name>demo-webflux</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
